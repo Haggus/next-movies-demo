@@ -1,1 +1,1 @@
-export default () => <p>Welcome to movies database!</p>
+export default () => <p>Welcome to Movies database!</p>
