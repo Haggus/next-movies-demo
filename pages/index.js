@@ -1,3 +1,1 @@
-export default () => {
-  return <p>Welcome</p>;
-};
+export default () => <p>Welcome to movies!</p>
